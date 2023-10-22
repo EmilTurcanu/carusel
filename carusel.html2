@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Position | Carousel</title>
+    <link rel="stylesheet" href="carousel.css">
+</head>
+<body>
+    <div id="stare-1">
+        <div id="stare-2">
+            <div id="stare-3">
+    <div class="carousel">
+        <div class="slide">
+            <img src="https://cdn.discordapp.com/attachments/1038329663187062804/1165118607693447188/48.png?ex=6545b042&is=65333b42&hm=b4771df1dbba532712e7513954937cb27b4cd37dde5d96baee880630b051e485&">
+            <a herf="#state-1">➤</a>
+        </div>
+        <div class="slide">
+            <img src="https://cdn.discordapp.com/attachments/951197655021797436/1160822082704257085/Meditating_animals_3.png?ex=653f494f&is=652cd44f&hm=91bd519568205f4fb9b196d471a96dc6fce3f6bd6412f14c3f0dcd04e2e1dd8a&">
+            <a href="#state-2">➤</a>
+        </div>
+        <div class="slide">
+            <img src="https://cdn.discordapp.com/attachments/1038329663187062804/1161592726291238963/13.png?ex=65421707&is=652fa207&hm=e00f7a5463c008f4b88b21280ad435d198f863c7d30af04e50e94d33e94c57aa&">
+            <a herf="#state-3">➤</a>
+        </div>
+    </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
